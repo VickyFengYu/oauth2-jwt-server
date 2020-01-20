@@ -1,6 +1,7 @@
 Oauth2 JWT Server
 ===================
 
+![enter image description here](https://github.com/VickyFengYu/oauth2-jwt-server/blob/master/image/Oauth2-Flow.png?raw=true)
 
 ## <i class="icon-folder-open"></i> AuthorizationServerConfigurerAdapter
 
