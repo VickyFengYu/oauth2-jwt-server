@@ -101,3 +101,12 @@ public class ResourceServerEndpointConfig
 ```
 
 > As the above configuration will target your resource endpoints and not affect authorization server-specific endpoints.
+
+
+## <i class="icon-folder-open"></i> Run and Test
+
+
+![enter image description here](https://github.com/VickyFengYu/oauth2-jwt-server/blob/master/image/jwt-token.jpg?raw=true)
+
+
+![enter image description here](https://github.com/VickyFengYu/oauth2-jwt-server/blob/master/image/user-api.jpg?raw=true)
