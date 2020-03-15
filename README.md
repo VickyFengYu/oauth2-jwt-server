@@ -110,3 +110,8 @@ public class ResourceServerEndpointConfig
 
 
 ![enter image description here](https://github.com/VickyFengYu/oauth2-jwt-server/blob/master/image/user-api.jpg?raw=true)
+
+
+# <i class="icon-folder-open"></i> Session vs JWT
+
+[Session vs JWT](https://vickyfengyu.github.io/springboot-session-vs-JWT)
